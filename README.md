@@ -1,41 +1,67 @@
-# 💡 Desafio: 61 Dias em Java
+### 🔰 Java Basics
+- [Basic Exercises Part-I](./basic-exercises-part-i)
+- [Basic Exercises Part-II](./basic-exercises-part-ii)
+- [Methods](./methods)
 
-**61 exercícios de lógica e programação orientada a objetos em Java**, organizados por temas e níveis de dificuldade.
+### 🔢 Java Data Types
+- [Data Types Exercises](./data-types-exercises)
+- [Enum Types Exercises](./enum-types-exercises)
 
-**Objetivo:** Resolver no mínimo **1 exercício por dia**
+### 🔁 Java Control Flow
+- [Conditional Statement Exercises](./conditional-statement-exercises)
+- [Recursive Method Exercises](./recursive-method-exercises)
 
-[Acesse a lista completa de exercícios aqui](exercicios.md).
+### ➕ Java Math and Numbers
+- [Math](./math)
+- [Numbers](./numbers)
 
----
+### 🧱 Object-Oriented Programming (OOP)
+- [Constructors](./constructors)
+- [Static Members](./static-members)
+- [Nested Classes](./nested-classes)
+- [Inheritance](./inheritance)
+- [Abstract Classes](./abstract-classes)
+- [Interfaces](./interfaces)
+- [Encapsulation](./encapsulation)
+- [Polymorphism](./polymorphism) 
+- [OOP Challenges](./oop-challenges)
 
+### 🚨 Exception Handling
+- [Exception Handling](./exception-handling)
 
+### 🧬 Functional Programming
+- [Lambda Expressions](./lambda-expressions)
+- [Streams](./streams)
 
-## Organização dos Exercícios
+### 🧵 Multithreading
+- [Thread](./thread)
+- [Multithreading](./multithreading)
 
-### 🔰 Nível 1: Fundamentos de Java (30 exercícios)
+### 📦 Data Structures
+- [Arrays](./arrays)
+- [Stack](./stack)
+- [Collection Framework](./collection-framework) 
 
-| Categoria                                   | Quantidade |
-|--------------------------------------------|------------|
-| 🧱 Estrutura básica de um programa Java     | 2          |
-| ✍️ Sintaxe básica                           | 5          |
-| 🔁 Estruturas de controle                   | 5          |
-| 📊 Arrays (Vetores e Matrizes)              | 7          |
-| 🧩 Introdução à Programação Orientada a Objetos (POO) | 10 |
+### ✉️ Strings and I/O
+- [Strings](./strings)
+- [Input/Output & File System](./input-output-file-system)
 
----
+### ⏰ Date and Time
+- [Date & Time API](./date-time-api)
 
-### 🛡️ Nível 2: Aprofundando em Java e APIs Essenciais (31 exercícios)
+### 🧪 Advanced Concepts
+- [Generic Methods](./generic-methods)
+- [Unit Testing](./unit-testing)
 
-| Categoria                                          | Quantidade |
-|---------------------------------------------------|------------|
-| 🧱 Programação Orientada a Objetos                | 10         |
-| ❗ Tratamento de Exceções                         | 5          |
-| 📚 Java Collections Framework                    | 4          |
-| 🧬 Generics                                       | 2          |
-| 📁 Entrada e Saída (I/O) de Arquivos              | 2          |
-| 🕒 Datas e Horas (API `java.time`)                | 2          |
-| ⚡ Expressões Lambda e Interfaces Funcionais       | 2          |
-| ✅ Introdução a Testes Unitários                  | 2          |
-| 🗃️ Introdução a JDBC                              | 2          |
+### 🧠 Algorithms
+- [Searching Algorithms](./searching-algorithms)
+- [Sorting Algorithms](./sorting-algorithms)
 
----
+### 🔍 Regular Expressions
+- [Regex](./regex)
+
+### 🎨 Java GUI
+- [JavaFX](./javafx)
+
+### 💡 Projetos
+- [Projetos](./projetos)

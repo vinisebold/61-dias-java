@@ -1,0 +1,152 @@
+# Java Programming Exercises Checklist
+
+- [ ] 1. Hello and Name Printer
+- [ ] 2. Sum of Two Numbers
+- [ ] 3. Division of Two Numbers
+- [ ] 4. Arithmetic Operations
+- [ ] 5. Product of Two Numbers
+- [ ] 6. Basic Arithmetic Operations
+- [ ] 7. Multiplication Table
+- [ ] 8. Pattern Display: JAVA
+- [ ] 9. Expression Evaluation
+- [ ] 10. Formula Computation
+- [ ] 11. Circle: Area and Perimeter
+- [ ] 12. Average of Three Numbers
+- [ ] 13. Rectangle: Area and Perimeter
+- [ ] 14. American Flag Display
+- [ ] 15. Swap Variables
+- [ ] 16. Face Printer
+- [ ] 17. Binary Addition
+- [ ] 18. Binary Multiplication
+- [ ] 19. Decimal to Binary Converter
+- [ ] 20. Decimal to Hexadecimal Converter
+- [ ] 21. Decimal to Octal Converter
+- [ ] 22. Binary to Decimal Converter
+- [ ] 23. Binary to Hexadecimal Converter
+- [ ] 24. Binary to Octal Converter
+- [ ] 25. Octal to Decimal Converter
+- [ ] 26. Octal to Binary Converter
+- [ ] 27. Octal to Hexadecimal Converter
+- [ ] 28. Hexadecimal to Decimal Converter
+- [ ] 29. Hexadecimal to Binary Converter
+- [ ] 30. Hexadecimal to Octal Converter
+- [ ] 31. Check Java Installation
+- [ ] 32. Compare Two Numbers
+- [ ] 33. Sum of Digits
+- [ ] 34. Hexagon Area
+- [ ] 35. Polygon Area
+- [ ] 36. Distance Between Two Points
+- [ ] 37. Reverse a String
+- [ ] 38. Count Characters in String
+- [ ] 39. Unique Three-Digit Numbers
+- [ ] 40. List Available Charsets
+- [ ] 41. ASCII Value Finder
+- [ ] 42. Input and Display Password
+- [ ] 43. Twinkle Poem Formatter
+- [ ] 44. Compute n+nn+nnn
+- [ ] 45. File Size Finder
+- [ ] 46. Display System Time
+- [ ] 47. Formatted Date and Time
+- [ ] 48. Print Odd Numbers (1-99)
+- [ ] 49. Check Even or Odd
+- [ ] 50. Divisible by 3, 5, Both
+- [ ] 51. String to Integer Conversion
+- [ ] 52. Sum Equals Third Integer
+- [ ] 53. Number Comparison Logic
+- [ ] 54. Same Rightmost Digit Check
+- [ ] 55. Seconds to Time Conversion
+- [ ] 56. Count Divisibles in Range
+- [ ] 57. Count Factors of Integer
+- [ ] 58. Capitalize Each Word
+- [ ] 59. Convert to Lowercase
+- [ ] 60. Find Penultimate Word
+- [ ] 61. Reverse Word
+- [ ] 62. Check Subtraction Difference
+- [ ] 63. Largest or Smallest Value
+- [ ] 64. Common Digit in Numbers
+- [ ] 65. Custom Modulus
+- [ ] 66. Sum of 100 Primes
+- [ ] 67. Insert Word in Middle
+- [ ] 68. Repeat Last 3 Characters
+- [ ] 69. Extract First Half
+- [ ] 70. Short + Long + Short String
+- [ ] 71. Remove First Char and Concatenate
+- [ ] 72. First 3 Chars or #
+- [ ] 73. First and Last Char Combo
+- [ ] 74. 10 as First or Last in Array
+- [ ] 75. First and Last Element Same
+- [ ] 76. First and Last of Two Arrays
+- [ ] 77. New Array with Ends of Two Arrays
+- [ ] 78. Contains 4 or 7
+- [ ] 79. Rotate Array Left
+- [ ] 80. Largest of First or Last Element
+- [ ] 81. Swap First and Last Elements
+- [ ] 82. Largest of First, Last, Middle
+- [ ] 83. Multiply Array Elements
+- [ ] 84. Add Last 3 Chars to Both Ends
+- [ ] 85. String Starts with Word
+- [ ] 86. Collatz Conjecture Simulation
+- [ ] 87. Digit Sum in Words
+- [ ] 88. System Environment and Properties
+- [ ] 89. Check Security Manager
+- [ ] 90. Environment Variables
+- [ ] 91. Code Execution Time in Nanoseconds
+- [ ] 92. Count Even and Odd in Array
+- [ ] 93. Check Adjacent 10s or 20s
+- [ ] 94. Rearrange Odd and Even Numbers
+- [ ] 95. Create String Array 0 to N-1
+- [ ] 96. 10 Before 20 Check
+- [ ] 97. Number Adjacent or Separated by One
+- [ ] 98. 20 Appears Thrice Non-Consecutively
+- [ ] 99. Specified Number in Adjacent Pairs
+- [ ] 100. Count Elements Differ by 1
+- [ ] 101. Check 10 Exceeds 20 in Array
+- [ ] 102. Contains 10 or 30
+- [ ] 103. Array After Last 10
+- [ ] 104. Array Before Last 10
+- [ ] 105. Group Match Start and End
+- [ ] 106. Left Shift Array
+- [ ] 107. Three Increasing Adjacent Numbers
+- [ ] 108. Sum Digits to Single Digit
+- [ ] 109. Staircase Coins
+- [ ] 110. Check Power of 4
+- [ ] 111. Add Without Operators
+- [ ] 112. Trailing Zeros in Factorial
+- [ ] 113. Merge Two Sorted Arrays
+- [ ] 114. Rotate String by Offset
+- [ ] 115. Check Palindrome Number
+- [ ] 116. FizzBuzz 1 to 100
+- [ ] 117. Square Root Calculation
+- [ ] 118. First Occurrence in String
+- [ ] 119. First Occurrence in Array
+- [ ] 120. Search Value in Matrix
+- [ ] 121. Reverse Linked List
+- [ ] 122. Max Subarray Sum
+- [ ] 123. Min Subarray Sum
+- [ ] 124. Insert Index in Sorted Array
+- [ ] 125. Preorder Binary Tree Traversal
+- [ ] 126. Inorder Binary Tree Traversal
+- [ ] 127. Postorder Binary Tree Traversal
+- [ ] 128. Median of Array
+- [ ] 129. Single Occurrence Number
+- [ ] 130. Max Depth of Binary Tree
+- [ ] 131. Remove Duplicates in Sorted Array
+- [ ] 132. Remove Duplicates (At Most Twice)
+- [ ] 133. Min Path Sum in Grid
+- [ ] 134. Distinct Ways to Climb Stairs
+- [ ] 135. Remove Duplicates in Linked List
+- [ ] 136. Unique Paths in Grid
+- [ ] 137. Unique Paths with Obstacles
+- [ ] 138. Longest Word in Dictionary
+- [ ] 139. Subarray with Zero Sum
+- [ ] 140. Merge Overlapping Intervals
+- [ ] 141. Check Distinct Characters
+- [ ] 142. Check Anagrams
+- [ ] 143. Merge Two Sorted Linked Lists
+- [ ] 144. Remove Element in Array
+- [ ] 145. Remove Nth Element from End
+- [ ] 146. Array to Minimal Height BST
+- [ ] 147. Bits to Flip Between Integers
+- [ ] 148. First Unique Character Index
+- [ ] 149. Check String Permutation
+- [ ] 150. Check Subtree in Binary Tree
