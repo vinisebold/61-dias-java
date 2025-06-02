@@ -1,4 +1,4 @@
-# Java Programming Exercises Checklist (151-249)
+# Java Programming Exercises II
 
 - [ ] 151. Evaluate Expressions
 - [ ] 152. Check Four Numbers Equal

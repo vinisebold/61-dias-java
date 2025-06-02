@@ -1,4 +1,4 @@
-# Java Programming Exercises Checklist
+# Java Programming Exercises I
 
 - [ ] 1. Hello and Name Printer
 - [ ] 2. Sum of Two Numbers
