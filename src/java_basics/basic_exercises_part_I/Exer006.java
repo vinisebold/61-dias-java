@@ -14,6 +14,7 @@ Expected Output :
 125 / 24 = 5
 125 mod 24 = 5
 */
+
 public class Exer006 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

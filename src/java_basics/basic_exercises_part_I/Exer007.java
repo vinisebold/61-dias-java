@@ -13,6 +13,7 @@ Expected Output :
 ...
 8 x 10 = 80
 */
+
 public class Exer007 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

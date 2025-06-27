@@ -9,6 +9,7 @@ Expected Output
 Area is 5.6 * 8.5 = 47.60
 Perimeter is 2 * (5.6 + 8.5) = 28.20
 */
+
 public class Exer013 {
     public static void main(String[] args) {
         final double WIDTH = 5.6;

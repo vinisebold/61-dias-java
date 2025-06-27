@@ -10,6 +10,7 @@ J  J  aaaaa   V V  aaaaa
  JJ  a     a   V  a     a
 
 */
+
 public class Exer008 {
     public static void main(String[] args) {
         System.out.println("   J    a   v     v  a");

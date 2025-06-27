@@ -7,6 +7,7 @@ Test Data:
 Expected Output
 2.138888888888889
 */
+
 public class Exer009 {
     public static void main(String[] args) {
 
